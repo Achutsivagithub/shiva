@@ -1,0 +1,23 @@
+7.citizens bank project
+
+in these we are using devops topics such as 
+
+1.bit bucket
+2.maven
+3.sonarkube
+4.jenkins
+5.deploy on open shift
+6.datadog
+7.nexus
+8.aws
+
+these are the projects which are happening and migrating
+
+data connversion:it determines the data to move forward making sure individual cloud implementations
+
+Technical Integrations and Interfaces:Citizens Bank encountered a number of custom integrations and feeds it needed to accommodate outside of passport integrations
+
+Report Requirements
+
+Challenge the business
+
